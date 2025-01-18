@@ -8,7 +8,7 @@ public class GraphService {
     private GraphTDA graph;
 
     public GraphService() {
-        this.graph = new GraphLA(); // Inicializa el grafo
+        this.graph = new GraphLD(); // Inicializa el grafo
         this.graph.InitializeGraph();
     }
 

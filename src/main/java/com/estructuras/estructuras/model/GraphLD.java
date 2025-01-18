@@ -2,7 +2,7 @@ package com.estructuras.estructuras.model;
 
 //Vertices = vertex
 //Aristas = Edges
-public class GraphLA implements GraphTDA {
+public class GraphLD implements GraphTDA {
     NodeGraph origin;
 
     @Override
